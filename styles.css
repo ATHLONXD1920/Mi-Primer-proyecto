@@ -1045,11 +1045,6 @@ opacity: 0.4; /* Ajusta la opacidad según sea necesario */
                0 0 40px rgba(255, 255, 255, 0.2);
 }
 
-:root {
-  --color-azul: #1e00ff;
-  --sombra: drop-shadow(2px 2px 4px rgba(20, 20, 225, 0.721));
-}
-
 .titulo_8::before {
   content: "";
   position: fixed;
